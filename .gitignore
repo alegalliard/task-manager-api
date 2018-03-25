@@ -49,3 +49,7 @@ bower.json
 
 
 # End of https://www.gitignore.io/api/rails
+
+
+task-manager
+task-manager.pub
